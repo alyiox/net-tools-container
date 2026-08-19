@@ -1,6 +1,6 @@
 # A Simple and Stupid Network Utilities Image
 
-[![CI build](https://github.com/alyiox/net-tools-container/actions/workflows/docker.yaml/badge.svg)](https://github.com/alyiox/net-tools-container/actions/workflows/docker.yaml)
+[![CI build](https://github.com/alyiox/net-tools-container/actions/workflows/ci.yml/badge.svg)](https://github.com/alyiox/net-tools-container/actions/workflows/ci.yml)
 [![Docker image](https://img.shields.io/docker/pulls/qqbuby/net-tools?logo=docker&label=docker%20image)](https://hub.docker.com/r/qqbuby/net-tools)
 [![License](https://img.shields.io/github/license/alyiox/net-tools-container)](LICENSE)
 
