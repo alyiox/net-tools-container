@@ -1,5 +1,7 @@
-FROM debian:bookworm
+FROM debian:trixie
+
 LABEL maintainer="Jon X <ousiax@hotmail.com>"
+
 RUN apt-get update \
     && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
         bash-completion \
