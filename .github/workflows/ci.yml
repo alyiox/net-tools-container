@@ -1,6 +1,9 @@
 name: ci
 
 on:
+  push:
+    tags:
+      - '*'
   release:
     types: [published]
 
